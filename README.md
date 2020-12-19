@@ -1,2 +1,0 @@
-# ikemobb.github.io
-Pages
