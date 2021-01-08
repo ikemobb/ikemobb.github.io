@@ -110,19 +110,19 @@ float-right {
     text-align: center;
 }
 
-#benefit-lead img {
+#benefit-lead img p{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-#benefit-brand img {
+#benefit-brand img p{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-#benefit-cost img {
+#benefit-cost img p{
     display: block;
     margin: 10px auto;
     max-width: 150px;
